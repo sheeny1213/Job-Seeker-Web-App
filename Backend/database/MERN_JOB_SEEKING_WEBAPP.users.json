@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "662d5d84e13fcdf123ff0845"
+  },
+  "name": "sid",
+  "email": "sid@gmail.com",
+  "phone": 9218536742,
+  "password": "$2b$10$JcAGLdxIFTWOpeS7YR6xr.PZXR7E5AErT4BVAEgddI96wMNb6f4A6",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-04-27T20:18:12.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662f71dbdc9242e591032012"
+  },
+  "name": "Raj",
+  "email": "raj@gmail.com",
+  "phone": 7782944937,
+  "password": "$2b$10$lCOoJ5lomQ6s3FAutXl6m.01lNCZ4CQR1I4rntKj6gg24mDd4Izn6",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-04-29T10:09:31.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663479a1ee9e561bd5a2b085"
+  },
+  "name": "Sheeny",
+  "email": "sheeny@gmail.com",
+  "phone": 6201752822,
+  "password": "$2b$10$9C53Ad5sHRJHTdYLts1G.e7v0KMi3nRakOtzpnFhqY2zT97CerfBq",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-05-03T05:44:01.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663480efee9e561bd5a2b2c2"
+  },
+  "name": "Madhu Raj",
+  "email": "madhu@gmail.com",
+  "phone": 6201725823,
+  "password": "$2b$10$slla.numFSmoS3rotfB2S.zcEP1FDo7rPy/67wVl3s7aiM.O3aXhy",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-05-03T06:15:11.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66348395ee9e561bd5a2b2ca"
+  },
+  "name": "Rajiv",
+  "email": "rajiv@gmail.com",
+  "phone": 7782944937,
+  "password": "$2b$10$yCkMcIUiHkxrt8HvULpXjeFOjSJa4pYm6sRT6aLfKmCv8tx9r.3tG",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-05-03T06:26:29.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66348cf84ce359bc52f1a634"
+  },
+  "name": "Mohini",
+  "email": "mohinikr03@gmail.com",
+  "phone": 6205965109,
+  "password": "$2b$10$H5yXd9bFwjC8EDnmlbHBXerAmHWh/l1Nf5jCr/89qixnj9Sg/Zmzi",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-05-03T07:06:32.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845dfb1bfae52dd248cedfd"
+  },
+  "name": "changumangu",
+  "email": "changumangu@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$X/BbEAYX.nGMNUfMUg788OsWRPigFkz2xI4MNKeAGZSZC6kHfBqD.",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-06-08T19:08:33.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845dfccbfae52dd248cee01"
+  },
+  "name": "changumangu",
+  "email": "changumangu21@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$BFHK5fhs5QxN3NZJZjv83eLlU.RH..VFG1Kdrzc1gg.hi.ZqYMOsS",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-06-08T19:09:00.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845e10abfae52dd248cee09"
+  },
+  "name": "Changumangu",
+  "email": "chiya13@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$Qv/bQvBgg2qLWh11hxXnqO1fYuXyacnp8DUfUBrAhoIiepAIgB/xW",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2025-06-08T19:14:18.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845e12cbfae52dd248cee0d"
+  },
+  "name": "Chiya",
+  "email": "chiya12@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$xJN9OnbAP1ZIUl6rd5yFgefOXaKWU6FbAkKzldqVBvSm/epzw28yq",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2025-06-08T19:14:52.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845e238bfae52dd248cee11"
+  },
+  "name": "Chiya",
+  "email": "chiya212@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$ccIKr1YXH0pbKuKaSGi8vu6CuWcJxGgwySNA5VGcbIrT4ytgsSwoi",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2025-06-08T19:19:20.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845e264bfae52dd248cee15"
+  },
+  "name": "Chiya",
+  "email": "chiya2512@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$tMZBgb5C4sZM7S//9l9inOGU1oUJdYEvWR4aCfqlDh7dWHXe28nYG",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2025-06-08T19:20:04.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6845e2b7bfae52dd248cee19"
+  },
+  "name": "Chiya",
+  "email": "chiubaby2@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$EidfEkOZ/fe.qd13tjflZOF9AJAKU1UkqsnAUvRvzKNE.hMIfetwK",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2025-06-08T19:21:27.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864e87142209c38f74599cc"
+  },
+  "name": "Krishna",
+  "email": "krishradha@gmail.com",
+  "phone": 6543219870,
+  "password": "$2b$10$SBXezFVvgB/uDaS0wLJTuuLB1C6VU/2oXmq/ypE.KpITWJ/gRzkNG",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:06:09.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864e89442209c38f74599d0"
+  },
+  "name": "Krishna",
+  "email": "krishradha2@gmail.com",
+  "phone": 6543219870,
+  "password": "$2b$10$fH/sI.3/mD22FNYhFUN/kusNZyoKSV2tI8aLFOA0zHFxoQ3DR2ur2",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:06:44.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864e8aa42209c38f74599d3"
+  },
+  "name": "Krishna",
+  "email": "krishradha9@gmail.com",
+  "phone": 6543219870,
+  "password": "$2b$10$lu1jouOCFkJFPOIv1VkKHediw3yT7ffPkRFl6R8oSJRaBeSpfh/Be",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:07:06.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ebb542209c38f74599d7"
+  },
+  "name": "Radha",
+  "email": "radha@gmail.com",
+  "phone": 9798322748,
+  "password": "$2b$10$/fV0Jj5BJe6h0Rg1yfGI.O6pJx57Iaqav1h7Y210oJxOxQ.Yzj4zC",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:20:05.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ec4042209c38f74599dc"
+  },
+  "name": "Radha",
+  "email": "radha21@gmail.com",
+  "phone": 9798322748,
+  "password": "$2b$10$HCUrqn1RwdGDHUeBkbucoeiLxn/Ddg5LsEjFElqB/tSmVKHfKtu.a",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:22:24.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ec5542209c38f74599df"
+  },
+  "name": "Radha",
+  "email": "radha2@gmail.com",
+  "phone": 9798322748,
+  "password": "$2b$10$kgsfQ4CcJfE4FOaCwAeBm.BIfa4Z6TkWFPYk32P6GpNI/XfJpSylm",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:22:45.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ec7042209c38f74599e3"
+  },
+  "name": "Radha",
+  "email": "radha24@gmail.com",
+  "phone": 9798322748,
+  "password": "$2b$10$.Verp5vw6/c85.6JBY1kMuL0BVYZmuwoAyIjutPtSTPKBuHXme0b6",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:23:12.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ed6842209c38f74599e7"
+  },
+  "name": "Radha",
+  "email": "radha22@gmail.com",
+  "phone": 9798322748,
+  "password": "$2b$10$8A5Rw/KeKz1cAulRzu0hre3GyJj34WkCjSliuM0v2UuCCvNN/kNze",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:27:20.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ed8a42209c38f74599ea"
+  },
+  "name": "Radha",
+  "email": "radha12@gmail.com",
+  "phone": 9798322748,
+  "password": "$2b$10$5UsmeZURd8OEQVFouzTsYexzfo9zY69d7vZuJCzFTNasTf6HNnP4u",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:27:54.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864ee347e163a9cdec7fde8"
+  },
+  "name": "Vidya",
+  "email": "vidya23@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$EQnUHe4rKLNBTqPIqvAATuGZUtleqBK4hY2670V0oifUyw3WQYNHC",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:30:44.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864eed57e163a9cdec7fdef"
+  },
+  "name": "Vidya",
+  "email": "vidya7@gmail.com",
+  "phone": 7492837254,
+  "password": "$2b$10$5w2y8oOe9IUYwuG0fy8KMexS5qVP3mpBSNSHjZH4Bl9JW8G59aOv2",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T08:33:25.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686567117e163a9cdec7fe08"
+  },
+  "name": "Raj",
+  "email": "raj21@gmail.com",
+  "phone": 1236547890,
+  "password": "$2b$10$BvLgD2Q6XK14rBVtgknxU.Ic10HAhGlr5QvNQNWgfVftGi4uNuIVG",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T17:06:25.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686577558eb614a8b49c4f82"
+  },
+  "name": "tanjiro",
+  "email": "tanjiro@gmail.com",
+  "phone": 7712345689,
+  "password": "$2b$10$IHo8P46HrLX51wD./5jas.dBeJN82.1suxI0h1PCMZ7TkLpFhC67y",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2025-07-02T18:15:49.917Z"
+  },
+  "__v": 0
+}]
